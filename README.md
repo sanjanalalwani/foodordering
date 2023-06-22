@@ -20,18 +20,28 @@ The demo of the project is shown below:
 # ADMIN PANEL
 
 # Login
+
+All the login credentials will be stored in the database.
 ![image](https://user-images.githubusercontent.com/109654794/226156981-09a6d511-a6f8-401e-964c-beaf47304dd3.png)
 
 # Dashboard
+
+All the information has been taken from the database only.
 ![image](https://user-images.githubusercontent.com/109654794/226157016-4fe9749e-20d6-4a3f-9910-0e71404fbe94.png)
 
 # Manage Admin
+
+All the information will be stored in the database.
 ![image](https://user-images.githubusercontent.com/109654794/226157037-e3168d4b-091e-49d8-bb64-3d708ff77fec.png)
 
 # Manage Category
+
+All the information will be stored in the database.
 ![image](https://user-images.githubusercontent.com/109654794/226157076-1cc6a5cf-e8c4-479c-b65f-b28f2f64acea.png)
 
 # Manage Food
+
+All the information will be stored in the database. The customer will be only able to see the food items stored here.
 ![image](https://user-images.githubusercontent.com/109654794/226157093-95eaf161-77a9-4e1f-9044-57e2ea6c5d69.png)
 
 
