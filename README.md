@@ -14,6 +14,7 @@ The demo of the project is shown below:
 # Home page
 ![Screenshot (270)](https://user-images.githubusercontent.com/109654794/226156882-c19bc417-2395-4380-a6c3-0da5cfc1b73a.png)
 ![image](https://user-images.githubusercontent.com/109654794/226156900-31e50b11-492a-4d75-95d1-057c15e65538.png)
+# Order page
 ![image](https://user-images.githubusercontent.com/109654794/226156952-330832ad-01bb-4f29-964f-893a2353c54b.png)
 
 # ADMIN PANEL
